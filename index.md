@@ -1,3 +1,3 @@
-<h1>Sphinx (by Anne Garreta)
+# Sphinx (by Anne Garreta) 
 
 
