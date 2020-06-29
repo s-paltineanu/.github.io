@@ -6,4 +6,5 @@ This page is about A** -- the main character in Anne Garreta's novel Sphinx, pub
 * A's gender is and is not and could be
 A said:
 > I concluded that making love without laughing was as bad as gifting a book written in a language the recipient does not know.
+<img src="https://www.publicdomainpictures.net/pictures/170000/velka/hi-tech-abstract-engine.jpg"/>
 
